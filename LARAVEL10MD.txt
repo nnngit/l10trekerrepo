@@ -1,0 +1,20 @@
+STEPS
+XAMPP CPANEL 3.1.1
+PHP 8.2
+LARAVEL
+Laravel v10.38.2 (PHP v8.2.12)
+
+XAMPP for Windows 8.2.12
+
+TREKKER DB NAME
+TREKKER.SQL
+
+laravel10
+
+logins 
+trekker@gmail.com trekker
+admin@gmail.com admin123
+user1@gmail.com user123
+
+
+
